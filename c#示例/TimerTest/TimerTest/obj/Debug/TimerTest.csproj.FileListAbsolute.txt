@@ -1,0 +1,6 @@
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\bin\Debug\TimerTest.exe.config
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\bin\Debug\TimerTest.exe
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\bin\Debug\TimerTest.pdb
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\obj\Debug\TimerTest.exe
+C:\Users\HanIT\Desktop\sui\c#示例\TimerTest\TimerTest\obj\Debug\TimerTest.pdb
